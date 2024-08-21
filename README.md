@@ -5,13 +5,10 @@ Este projeto tem como objetivo realizar a extração de dados de fundos imobili�
 ### Etapa 1: Configuração do Web Scraping
 Nesta fase, configuramos o processo de web scraping utilizando a Beautiful Soup para acessar e extrair os dados dos fundos imobiliários do site Fundamentus.
 
-### Etapa 2: Análise Inicial dos Dados
-Realizamos uma análise inicial dos dados extraídos e identificamos que os tipos de dados não estavam corretos.
-
-### Etapa 3: Tratamento dos Dados
+### Etapa 2: Tratamento dos Dados
 Nesta etapa, procedemos com o tratamento dos dados. Isso incluiu a remoção de caracteres especiais e a conversão dos dados para os tipos corretos, como 'float' ou 'int'.
 
-### Etapa 4: Análise Descritiva dos Dados
+### Etapa 3: Análise Descritiva dos Dados
 Utilizamos consultas SQL para realizar uma análise descritiva dos dados analisados. Além disso, empregamos ferramentas de visualização, do Databricks, para criar gráficos representativos dos dados analisados.
 
 ## Como visualizar o projeto
