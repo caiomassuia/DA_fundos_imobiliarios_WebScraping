@@ -8,7 +8,7 @@ Nesta fase, configuramos o processo de web scraping utilizando a Beautiful Soup 
 ### Etapa 2: Tratamento dos Dados
 Nesta etapa, procedemos com o tratamento dos dados. Isso incluiu a remoção de caracteres especiais e a conversão dos dados para os tipos corretos, como 'float' ou 'int'.
 
-### Etapa 3: Análise Descritiva dos Dados
+### Etapa 3: Análise Descritiva dos Dados no ambiente do Databricks
 Utilizamos consultas SQL para realizar uma análise descritiva dos dados analisados. Além disso, empregamos ferramentas de visualização, do Databricks, para criar gráficos representativos dos dados analisados.
 
 ## Como visualizar o projeto
